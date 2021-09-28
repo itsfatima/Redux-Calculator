@@ -1,0 +1,27 @@
+.calculator-body {
+    margin-top: 110px;
+    text-align: center;
+  }
+
+.result {
+    height: 60px;
+    background-color: rgb(154, 170, 202);
+    width: 24%;
+  }
+
+  button {
+    display: inline-block;
+    background-color: rgb(158, 179, 218);
+    width: 5%;
+    height: 60px;
+    font-size: 30px;
+    border-color: beige;
+    border-radius: 4px;
+  }
+  
+  input {
+    font-size: 40px;
+    margin: 5px;
+    color: black;
+  }
+
